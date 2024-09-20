@@ -20,6 +20,7 @@
             "outputPath": "dist/app-uses-lib-core",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "preserveSymlinks": true,
             "polyfills": [
               "zone.js"
             ],
